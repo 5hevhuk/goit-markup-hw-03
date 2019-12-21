@@ -1,0 +1,21 @@
+body {
+    color: #626262;
+    font-family: 'Playfair Display', serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.preheader {
+    font-family: 'Ubuntu', sans-serif;
+    color: #b4ad9e;
+}
+
+.active_tab {
+    color: #03a9f4;
+}
+
+a {
+    text-decoration: none;
+    color: #626262;
+}
