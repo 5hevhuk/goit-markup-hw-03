@@ -19,3 +19,8 @@ a {
     text-decoration: none;
     color: #626262;
 }
+
+.bottom_button {
+    color: #626262;
+    font-family: 'Playfair Display', serif;
+}
