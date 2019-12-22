@@ -6,14 +6,27 @@ body {
     box-sizing: border-box;
 }
 
-a:hover,
-a:focus {
-    color:#0000FF;
+.site-nav {
+    font-size: 14px;
+    line-height: 24px;
+    text-transform: uppercase;
 }
 
-.preheader {
+a:hover,
+a:focus {
+    color:#03a9f4;
+}
+
+.preheader-item {
     font-family: 'Ubuntu', sans-serif;
     color: #b4ad9e;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.description-item {
+    font-size: 14px;
+    line-height: 24px;
 }
 
 .active_tab {
@@ -28,4 +41,6 @@ a {
 .bottom_button {
     color: #626262;
     font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    line-height: 24px;
 }
