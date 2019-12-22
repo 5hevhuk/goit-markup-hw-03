@@ -6,6 +6,11 @@ body {
     box-sizing: border-box;
 }
 
+a:hover,
+a:focus {
+    color:#0000FF;
+}
+
 .preheader {
     font-family: 'Ubuntu', sans-serif;
     color: #b4ad9e;
