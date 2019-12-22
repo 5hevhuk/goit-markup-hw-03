@@ -33,6 +33,10 @@ a:focus {
     color: #03a9f4;
 }
 
+.title-item {
+    font-size: 30px;
+}
+
 a {
     text-decoration: none;
     color: #626262;
